@@ -103,7 +103,7 @@ I could possibly use flexbox (like I did in the raya movie website to fix this i
   background-image:url('../pics/img1Test.png');
   position: relative; 
   background-position:center;
-  background-size: cover; 
+  background-size: 100% 115%; 
   min-height: 100vh;
   /*height: 850px;
   width:100%; */
